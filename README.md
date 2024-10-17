@@ -1,2 +1,2 @@
 # MTGBoosterGenerator
-A Python program to create booster pack of MTG cards
+A Python program to create booster packs of MTG cards
